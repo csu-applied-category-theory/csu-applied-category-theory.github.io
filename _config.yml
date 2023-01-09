@@ -44,4 +44,4 @@ defaults:
       layout: default
 
 # Build settings
-markdown: GFM
+markdown: kramdown

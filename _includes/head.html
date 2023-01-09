@@ -16,6 +16,14 @@
   <meta property="og:url" content="{{ page.url | absolute_url }}" />
   <meta property="og:locale" content="en_US" />
   <meta name="google-site-verification" content="hYtNScoDhje7bKrFT4gkyPFUZ3lsn_CwcYHyxXgq5Fo" />
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script language = "javascript" type = "text/javascript">
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']]
+      }
+  };
+  </script>
   <script type="application/ld+json">{"@context":"http://schema.org","@type":"WebPage","headline":"{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}","author":{"@type":"Person","name":"{{ site.author }}"},"description":"{{ site.description }}","url":"{{ page.url | absolute_url }}"}</script>
 
   <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}">
