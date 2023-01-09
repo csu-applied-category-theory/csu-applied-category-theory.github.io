@@ -24,6 +24,8 @@ In Spring 2023, we will be exploring Homotopy Type Theory.
 
 # Past Topics
 
+See [Past Talks](./01-past.html) for more details.
+
 - Theorems for Free.
 - Folds & Flats in Apache's Spark.
 - Kleisli Composition and Categories.
