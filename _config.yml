@@ -8,26 +8,26 @@
 
 # Site settings
 # title appears in the header
-title: workshop-template
+title: CSU Applied Cateogry Theory Seminar
 # description and keywords for meta tags
-description: "Create an OER workshop website quick and easy!"
-keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
+description: "CSU Applied Category Theory Seminar!"
+keywords: "category theory, colorado state university, mathematics"
 
 # author settings for cc-by, appears in the footer
-author: evan will
-pub_year: 2018
-github_username: evanwill
+author: CSU Applied Category Theory
+pub_year: 2023
+github_username: csu-applied-category-theory
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/workshop-template"
+repo: "https://github.com/csu-applied-category-theory/csu-applied-category-theory.github.io"
 
 # site urls
 # add the url for the domain,
 # on gh-pages follow the pattern: https://username.github.io 
-url: https://evanwill.github.io
+url: https://csu-applied-category-theory.github.io
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /workshop-template
+baseurl: /
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored
