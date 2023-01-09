@@ -60,3 +60,10 @@ $on-laptop:        800px !default;
   "layout",
   "custom"
 ;
+
+
+td, th {
+  border: 1px solid;
+  padding: 5px;
+  text-align: left!important;
+}
