@@ -2,7 +2,7 @@
 
 https://csu-applied-category-theory.github.io/
 
-## How do I get edit access?
+## How can I get edit access?
 
 Create a GitHub account, and ask a seminar organizer to add that account to the GitHub organization.
 
@@ -17,17 +17,17 @@ nav: true
 ``` 
 gives the title of the page and shows it in the nav.
 
-## How do I make changes?
+## How can I make changes?
 
 Make changes either directly with the Web UI on the [repository](https://github.com/csu-applied-category-theory/csu-applied-category-theory) page, or locally with an editor after pulling. Push directly to the main branch and changes to the website will be reflected in a minute. (Look for the green checkmark to the left of your commit)
 
 Everything is in [markdown](https://kramdown.gettalong.org/quickref.html), LaTeX formatting is supported with MathJax, including using single dollar signs (`$...$`) as delimiters.
 
-### How do I add images?
+### How can I add an image?
 
-Check in an image under the `images` directory, and use the Markdown snippet `![image](./images/uidaho-workshop.jpg)`
+Check in an image under the `images` directory, and use the Markdown snippet `![image](./images/MY_IMAGE_NAME.jpg)`
 
-### Can I see my changes locally?
+### How can I see my changes locally?
 
 If you install Ruby, Bundle, and Jekyll, and install the gems with `bundle install`, then `jekyll serve` will allow you to make changes and see the website update. 
 
