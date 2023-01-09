@@ -37,13 +37,6 @@ When creating content pages:
 - the default layout does not add `title` to the page, so it can be a short for the nav. 
 Add a title in the Markdown content.
 
-Using figure include:
-
-- put all images in the `images` directory.
-- figures will be centered, and can optionally be given a caption and percentage width.
-- in a markdown file where you want the image to appear, use the `figure.html` include on its own line.
-- pattern: `{% include figure.html file="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}`
-
 Basic style customization:
 
 - the `main.scss` in the `css` folder exposes variables that can customize the basic style of website.

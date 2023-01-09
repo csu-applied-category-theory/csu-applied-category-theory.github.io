@@ -4,7 +4,6 @@
 
 # Notes: 
 # - pages with "nav: true" in front matter will be in header nav
-# - figure include for centered images, put file in images directory and use: {% include figure.html img="my-cat.jpg" alt="cat" caption="My cat" width="50%" %}
 
 # Site settings
 # title appears in the header
