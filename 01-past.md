@@ -26,7 +26,7 @@ Some of our past talks and abstracts are here.
 
 | Date | Speaker | <span style="display: inline-block; width:100%">Abstract</span>|
 |:--------|:-------:|--------:|
-|  March, 2022  | James Wilson | Towards Higher Inductive Types <br> [Youtube](https://www.youtube.com/watch?v=ab8wXarxtyI) |
+|  April, 2022  | James Wilson | Towards Higher Inductive Types <br> [Youtube](https://www.youtube.com/watch?v=ab8wXarxtyI) |
 |  March, 2022  | Chris Liu <br> Tatum Rask   | Computable Simplicial Sets, Kan Extensions <br> [Youtube](https://www.youtube.com/watch?v=HVYsL8NJKtw) |
 |  February, 2022  | Luke Askew   | Simplical Sets |
 |  February, 2022  | Amit Patel   | Linking higher morphisms to topological language <br> [Youtube](https://www.youtube.com/watch?v=cIV0mVVWsN4) |
