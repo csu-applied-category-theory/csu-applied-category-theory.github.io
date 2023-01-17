@@ -4,7 +4,7 @@ title: Home
 
 # CSU Applied Category Theory Seminar
 
-This seminar runs in Spring 2023 weekly at 11AM Tuesdays. Location TBD. Below are the seminar organizers.
+This seminar runs in Spring 2023 weekly at 11AM Tuesdays in Weber 15. Below are the seminar organizers.
 
 
 - [Amit Patel](https://www.math.colostate.edu/~akp/){:target="_blank"} (Colorado State University)
