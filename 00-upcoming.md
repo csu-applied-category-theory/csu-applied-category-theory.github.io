@@ -7,6 +7,7 @@ nav: true
 
 | Date | Speaker | <span style="display: inline-block; width:100%">Abstract</span>|
 |:--------|:-------:|--------:|
+|  January 24, 2023  | James Wilson | High level survey of Homotopy Type Theory |
 |  January 31, 2023  | Ian Jorquera <br> Kylie Schnoor | Simple Types: $A \times B$ and $f: A \rightarrow B$ |
 |  February 7, 2023 | Chris Liu <br> Kristina Moen | Dependent Types: $\prod_{i \in I}A_i$ and $\coprod_{i \in I}A_i$ |
 |  February 14, 2023 | TBD | Inductive Types and Homotopy and CANDY |
