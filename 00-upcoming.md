@@ -7,5 +7,5 @@ nav: true
 
 | Date | Speaker | <span style="display: inline-block; width:100%">Abstract</span>|
 |:--------|:-------:|--------:|
-|  March 7, 2023 | Chris Liu | Topos Tuesday - The Subobject Classifier and Logic in Topos <br> Resources: <br> [An Invitation to Applied Category Theory - Ch 7](https://arxiv.org/pdf/1803.05316.pdf) <br> [An informal introduction to topos theory](https://arxiv.org/pdf/1012.5647.pdf)|
+|  April 25, 2023  | Kaylee Fantin&#8209;Hardesty <br> Sarah Lutz | **Title**: What Does it Mean for a Word to Have Meaning? Exploring Semantics in Natural Language Processing <br><br> **Abstract**: We will start by introducing several elementary solutions for attaching meaning to words in natural language processing, discuss the issues with those, and explore how we can "do better", i.e. how we can give words more meaning and be more computationally efficient. We end with an overview of Word2vec, a model that uses neural networks to learn word associations, which provides reasonably useful meanings for words. |
 {: rules="groups"}
