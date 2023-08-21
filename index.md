@@ -4,13 +4,11 @@ title: Home
 
 # CSU Applied Category Theory Seminar
 
-This seminar runs in Spring 2023 weekly at 11AM Tuesdays in Weber 201. Below are the seminar organizers.
+This seminar runs in Fall 2023 weekly at 11AM Wednesdays in Weber 15. Below are the seminar organizers.
 
 
-- [Amit Patel](https://www.math.colostate.edu/~akp/){:target="_blank"} (Colorado State University)
 - [James Wilson](https://www.math.colostate.edu/~jwilson/wilson.html){:target="_blank"} (Colorado State University)
-- [Patrick Shipman](https://www.math.colostate.edu/~shipman/){:target="_blank"} (Colorado State University)
-- [Dustin Tucker](https://sites.google.com/site/dusttuck/){:target="_blank"} (Colorado State University)
+- [Wolfgang Bangerth](https://www.math.colostate.edu/~bangerth/){:target="_blank"} (Colorado State University)
 
 [Youtube Channel](https://www.youtube.com/channel/UCKcw90MiMPcopdQZZUbv2mw){:target="_blank"}
 
@@ -22,12 +20,13 @@ All levels of experience are welcome. We are a friendly group happy to answer qu
 
 # Current Topics
 
-In Spring 2023, we will be exploring Homotopy Type Theory.
+In Fall 2023, we will be exploring TBD!
 
 # Past Topics
 
 See [Past Talks](./01-past.html) for more details.
 
+- Dependent and Homotopy Type Theory
 - Theorems for Free.
 - Folds & Flats in Apache's Spark.
 - Kleisli Composition and Categories.
