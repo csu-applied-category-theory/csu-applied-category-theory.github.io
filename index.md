@@ -20,7 +20,7 @@ All levels of experience are welcome. We are a friendly group happy to answer qu
 
 # Current Topics
 
-In Fall 2023, we will be exploring TBD!
+In Fall 2023, we will be exploring Program design as Math: introduction to types, categories for functional programming, the algebra of an API.
 
 # Past Topics
 
