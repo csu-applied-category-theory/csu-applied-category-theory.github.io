@@ -17,4 +17,6 @@ Prerequisites: access to a terminal.
 Use the online code editor at [https://scastie.scala-lang.org/](https://scastie.scala-lang.org/) - you will need to sign up for GitHub. You can save and share snippets, but will not be able to import other people's projects.
 
 
+## More details
+The [getting started](https://docs.scala-lang.org/getting-started/index.html) page on the Scala website has more detailed instructions about creating a new project and using Scala from the command line.
 
