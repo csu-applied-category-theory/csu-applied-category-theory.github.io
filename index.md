@@ -4,7 +4,7 @@ title: Home
 
 # CSU Applied Category Theory Seminar
 
-This seminar runs in Fall 2023 weekly at 11AM Wednesdays in Weber 15. Below are the seminar organizers.
+This seminar runs in Spring 2024 weekly at (TODO) in (TODO). Below are the seminar organizers.
 
 
 - [James Wilson](https://www.math.colostate.edu/~jwilson/wilson.html){:target="_blank"} (Colorado State University)
@@ -20,12 +20,14 @@ All levels of experience are welcome. We are a friendly group happy to answer qu
 
 # Current Topics
 
-In Fall 2023, we will be exploring Program design as Math: introduction to types, categories for functional programming, the algebra of an API.
+In Spring 2024, we will be exploring functional programming languages that also serve as proof assistants. Examples include Lean, Agda, and Idris. 
+
 
 # Past Topics
 
 See [Past Talks](./01-past.html) for more details.
 
+- Program design as Math: introduction to types, categories for functional programming, the algebra of an API.
 - Dependent and Homotopy Type Theory
 - Theorems for Free.
 - Folds & Flats in Apache's Spark.

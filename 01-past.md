@@ -7,6 +7,21 @@ nav: true
 
 Some of our past talks and abstracts are here.
 
+## Fall 2023
+
+| Date | Speaker | <span style="display: inline-block; width:100%">Abstract</span>|
+|:--------|:-------:|--------:|
+|  September 9, 2023  | Wolfgang Bangerth/James Wilson | Why think functional / Loops and Recursion |
+|  September 13, 2023  | Kylie Schnoor/Mason Faldet| Higher Order Functions|
+|  September 20, 2023  | Mason Faldet/Sarah Lutz | Polymorphism / Inductive types|
+|  October 4, 2023  | James Wilson | Categories, Types, and Programs: A quick tour of the math used in modern programs. |
+|  October 11, 2023  | Kristina Moen/Fernando Herrera Valverde| Trees and pattern matching|
+|  October 25, 2023  | Chris Liu |Option data type and my Sunday|
+|  November 1, 2023  | Chris Liu |Big tent of functional programming|
+|  November 8, 2023  | Wolfgang Bangerth | Option data type and exceptions |
+|  November 29, 2023  | Ian Jorquera | F-Algebras (Functor Algebras, not to be confused with ill feelings about algebra) and the fold map or just more Functors |
+{: rules="groups"}
+
 ## Spring 2023
 
 | Date | Speaker | <span style="display: inline-block; width:100%">Abstract</span>|
