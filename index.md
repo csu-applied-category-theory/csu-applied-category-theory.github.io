@@ -4,7 +4,7 @@ title: Home
 
 # CSU Applied Category Theory Seminar
 
-This seminar runs in Spring 2024 weekly at Monday at 2PM in (ROOM TBD, first meeting on Jan 22 in Weber 223). Below are the seminar organizers.
+This seminar runs in Spring 2024 weekly at Monday at 2PM in ENG B 105. Below are the seminar organizers.
 
 
 - [James Wilson](https://www.math.colostate.edu/~jwilson/wilson.html){:target="_blank"} (Colorado State University)
