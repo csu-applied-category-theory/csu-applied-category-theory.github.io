@@ -4,7 +4,7 @@ title: Home
 
 # CSU Applied Category Theory Seminar
 
-This seminar runs in Spring 2024 weekly at Monday at 2PM in ENG B 105. Below are the seminar organizers.
+This seminar will run in Fall 2024 weekly, location TBD. Below are the seminar organizers.
 
 
 - [James Wilson](https://www.math.colostate.edu/~jwilson/wilson.html){:target="_blank"} (Colorado State University)
@@ -20,13 +20,15 @@ All levels of experience are welcome. We are a friendly group happy to answer qu
 
 # Current Topics
 
-In Spring 2024, we will be exploring functional programming languages that also serve as proof assistants. Examples include Lean, Agda, and Idris. 
+In Fall 2024, the topic is TBD
 
 
 # Past Topics
 
 See [Past Talks](./01-past.html) for more details.
 
+- Functional programming languages that also serve as proof assistants. Examples include Lean, Agda, and Idris. 
+- Topos and subobject classifiers.
 - Program design as Math: introduction to types, categories for functional programming, the algebra of an API.
 - Dependent and Homotopy Type Theory
 - Theorems for Free.

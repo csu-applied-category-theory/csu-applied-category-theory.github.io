@@ -7,6 +7,26 @@ nav: true
 
 Some of our past talks and abstracts are here.
 
+## Spring 2024
+
+| Date | Speaker | <span style="display: inline-block; width:100%">Abstract</span>|
+|:--------|:-------:|--------:|
+| 1/22/2024	| James Wilson	| Why Categories at all? (Denotational Semantics) |
+| 1/29/2024	| William Scarbro, Jonathan Yallop | "After reviewing the Natural Numbers Game, we would like to build up to the quotient remainder theorem. Along the way we will cover: Basic Syntax, Currying, Induction, Tactics, The Church Rosser Property, Dependent Types, Existential Quantifiers as Dependent Pairs" |
+| 2/5/2024 | | 	Continued from last week |
+| 2/12/2024	| Amaury Miniño,Sam Scheuerman	| Wrapping up the natural numbers stuff and then modus ponens/modus tolens proofs  |
+| 2/19/2024	| Amaury Miniño,Sam Scheuerman	| Continued from last week |
+| 2/26/2024	| Alex Karduna, Chris Liu 	| Division algorithm - computation and proofs all in one. |
+| 3/4/2024	| James Wilson | Type Theory Bootcamp |
+| 3/18/2024	| Entire group | Post spring break chat |
+| 3/25/2024	| James Wilson	| "TOPOS: How to code a set in a computer. Abstract:  For a century math folk have been getting away with saying things like ``Let a prime is number with exactly two factors.  For every prime p….''. In the first sentence we behave as though primes are a membership test P(n); so, S = { n \| P(n) }. In the second sentence we without explanation began to image primes are enumerated; so, S={2,3,5,…}. Obviously there is a computational gap in this change in behavior.  Mathematicians a century ago sought to fill it in by axiom. TOPOS is the name given to one strategy to close the gap in a computationally meaningful way. This means that if we write down a set in a TOPOS way, it has the ingredients to link membership with enumeration. I will lay out the motives and describe the three pillars upon which TOPOS can be defined and in the coming weeks we can build these pillars in math and in code." |
+| 4/1/2024 | Jonathan	| Lambda calculus/substitution/combinators |
+| 4/8/2024 | Amaury, Jerett | Types & Diagrams in Simple Type Theory |
+| 4/15/2024	| Alex Karduna, William	| Product & Dependent Functions |
+| 4/22/2024	| William, Chris | Dependent sums, and subset classifier |
+| 4/29/2024	| Ian | Membership / Suboject classifier -  defining a topos. |
+{: rules="groups"}
+
 ## Fall 2023
 
 | Date | Speaker | <span style="display: inline-block; width:100%">Abstract</span>|
