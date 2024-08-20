@@ -20,7 +20,7 @@ All levels of experience are welcome. We are a friendly group happy to answer qu
 
 # Current Topics
 
-In Fall 2024, the topic is TBD
+In Fall 2024, the topic is Nate is here
 
 
 # Past Topics
