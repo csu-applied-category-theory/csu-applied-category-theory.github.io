@@ -8,7 +8,6 @@ This seminar will run in Fall 2024 weekly, location TBD. Below are the seminar o
 
 
 - [James Wilson](https://www.math.colostate.edu/~jwilson/wilson.html){:target="_blank"} (Colorado State University)
-- [Wolfgang Bangerth](https://www.math.colostate.edu/~bangerth/){:target="_blank"} (Colorado State University)
 
 [Youtube Channel](https://www.youtube.com/channel/UCKcw90MiMPcopdQZZUbv2mw){:target="_blank"}
 
@@ -20,7 +19,7 @@ All levels of experience are welcome. We are a friendly group happy to answer qu
 
 # Current Topics
 
-In Fall 2024, the topic is Nate is here
+TBD
 
 
 # Past Topics
