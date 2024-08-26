@@ -8,6 +8,7 @@ This seminar will run in Fall 2024 weekly on Thursdays 3-4pm, location TBD. Belo
 
 
 - [James Wilson](https://www.math.colostate.edu/~jwilson/wilson.html){:target="_blank"} (Colorado State University)
+- [Wolfgang Bangerth](https://www.math.colostate.edu/~bangerth/){:target="_blank"} (Colorado State University)
 
 [Youtube Channel](https://www.youtube.com/channel/UCKcw90MiMPcopdQZZUbv2mw){:target="_blank"}
 
