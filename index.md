@@ -20,7 +20,9 @@ All levels of experience are welcome. We are a friendly group happy to answer qu
 
 # Current Topics
 
-TBD
+We will be reading through Brendan Fong and David Spivak's ["An Invitation to Applied Category Theory"](https://arxiv.org/abs/1803.05316){:target="_blank"}.
+
+We will also lightly use Bartosz Milewski's "Category Theory for Programmers" as a secondary resource. This is available freely from the authors [website](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/){:target="_blank"}.
 
 
 # Past Topics
