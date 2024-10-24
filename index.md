@@ -20,7 +20,9 @@ All levels of experience are welcome. We are a friendly group happy to answer qu
 
 # Current Topics
 
-We will be reading through Brendan Fong and David Spivak's ["An Invitation to Applied Category Theory"](https://arxiv.org/abs/1803.05316){:target="_blank"}.
+We will be reading through Philip Wadler's ["Theorems for free!"](https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf){:target="_blank"}.
+
+During the first half of the semester, we read the first three chapters of Brendan Fong and David Spivak's ["An Invitation to Applied Category Theory"](https://arxiv.org/abs/1803.05316){:target="_blank"}.
 
 We will also lightly use Bartosz Milewski's "Category Theory for Programmers" as a secondary resource. This is available freely from the authors [website](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/){:target="_blank"}.
 
