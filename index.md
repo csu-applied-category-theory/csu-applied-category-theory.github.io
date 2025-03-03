@@ -29,6 +29,7 @@ We will also lightly use Bartosz Milewski's "Category Theory for Programmers" as
 
 See [Past Talks](./01-past.html) for more details.
 
+- Philip Wadler's ["Theorems for free!"](https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf){:target="_blank"}.
 - Functional programming languages that also serve as proof assistants. Examples include Lean, Agda, and Idris. 
 - Topos and subobject classifiers.
 - Program design as Math: introduction to types, categories for functional programming, the algebra of an API.
