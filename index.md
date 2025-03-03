@@ -4,7 +4,7 @@ title: Home
 
 # CSU Applied Category Theory Seminar
 
-This seminar will run in Fall 2024 weekly on Thursdays 3-4pm, location TBD. Below are the seminar organizers.
+This seminar will run in Spring 2025 weekly on Thursdays 4-5pm in Weber 237. Below are the seminar organizers.
 
 
 - [James Wilson](https://www.math.colostate.edu/~jwilson/wilson.html){:target="_blank"} (Colorado State University)
@@ -20,9 +20,7 @@ All levels of experience are welcome. We are a friendly group happy to answer qu
 
 # Current Topics
 
-We will be reading through Philip Wadler's ["Theorems for free!"](https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf){:target="_blank"}.
-
-During the first half of the semester, we read the first three chapters of Brendan Fong and David Spivak's ["An Invitation to Applied Category Theory"](https://arxiv.org/abs/1803.05316){:target="_blank"}.
+We will be reading about Observational Type Theory with the goal of learning how to program equality in a way that matters to the compiler. In particular, we are reading through Thorsten Altenkirch and Conor McBride's ["Towards Observational Type Theory"](http://www.strictlypositive.org/ott.pdf){:target="_blank"}.
 
 We will also lightly use Bartosz Milewski's "Category Theory for Programmers" as a secondary resource. This is available freely from the authors [website](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/){:target="_blank"}.
 
